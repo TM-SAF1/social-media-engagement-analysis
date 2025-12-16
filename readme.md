@@ -1,4 +1,4 @@
-# YouTube Trending Video Analysis – BUCC R&D
+# YouTube Trending Video Analysis
 
 ## Dataset
 - Trending YouTube Video Statistics (US) from Kaggle
